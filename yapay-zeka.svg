@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Yapay zeka">
+<title>Yapay zeka</title>
+<style>
+.nd{fill:#38bdf8;transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.25)}}
+@media (prefers-reduced-motion: reduce){.nd{animation:none}}
+</style>
+<rect x=".75" y=".75" width="46.5" height="46.5" rx="12" fill="#ffffff" fill-opacity=".08" stroke="#7cc4fa" stroke-opacity=".5" stroke-width="1.5"/>
+<g stroke="#7cc4fa" stroke-opacity=".4" stroke-width="1.2"><line x1="13" y1="17" x2="24" y2="11"/><line x1="13" y1="17" x2="24" y2="24"/><line x1="13" y1="17" x2="24" y2="37"/><line x1="13" y1="31" x2="24" y2="11"/><line x1="13" y1="31" x2="24" y2="24"/><line x1="13" y1="31" x2="24" y2="37"/><line x1="24" y1="11" x2="35" y2="17"/><line x1="24" y1="11" x2="35" y2="31"/><line x1="24" y1="24" x2="35" y2="17"/><line x1="24" y1="24" x2="35" y2="31"/><line x1="24" y1="37" x2="35" y2="17"/><line x1="24" y1="37" x2="35" y2="31"/></g>
+<circle class="nd" cx="13" cy="17" r="3.2" style="animation-delay:0.00s"/><circle class="nd" cx="13" cy="31" r="3.2" style="animation-delay:-0.35s"/><circle class="nd" cx="24" cy="11" r="3.2" style="animation-delay:-0.70s"/><circle class="nd" cx="24" cy="24" r="3.2" style="animation-delay:-1.05s"/><circle class="nd" cx="24" cy="37" r="3.2" style="animation-delay:-1.40s"/><circle class="nd" cx="35" cy="17" r="3.2" style="animation-delay:-1.75s"/><circle class="nd" cx="35" cy="31" r="3.2" style="animation-delay:-2.10s"/>
+<circle r="1.8" fill="#fbbf24" opacity="0"><animateMotion path="M13,17 L24,24 L35,31" dur="2.4s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="0s" repeatCount="indefinite"/></circle><circle r="1.8" fill="#fbbf24" opacity="0"><animateMotion path="M13,31 L24,11 L35,17" dur="2.4s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle><circle r="1.8" fill="#fbbf24" opacity="0"><animateMotion path="M13,17 L24,37 L35,31" dur="2.4s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+</svg>
